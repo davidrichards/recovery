@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  state_changeable_id: 1
+  state_changeable_type: MyString
+  person_id: 1
+  role_name: MyString
+
+two:
+  state_changeable_id: 1
+  state_changeable_type: MyString
+  person_id: 1
+  role_name: MyString
